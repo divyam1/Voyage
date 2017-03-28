@@ -19,6 +19,10 @@
     <string name="loading">Loading…</string>
     <string name="facebook_app_id">422398251429825</string>
     <string name="permission_rationale">Contacts permissions are needed for providing email completions.</string>
+    <string name="permission_location_rationale">Location permission is needed to show you nearby places.</string>
+    <string name="permission_available_location">Location permission has been granted.</string>
+    <string name="permission_not_granted"> permission not granted.</string>
+    <string name="ok">OK</string>
 
     <string-array name="place_name">
         <item>Rajmandir Cinema</item>
